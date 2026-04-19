@@ -5,3 +5,6 @@
     border: none;
     cursor: pointer;
 }
+.addBtn:hover {
+    background-color: #45a049;
+}
